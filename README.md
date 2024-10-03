@@ -129,9 +129,9 @@ python run.py --image examples/input_image.jpg --class "cat" --output examples/o
 - **Final Image**: Saves the image with the red mask overlay.
 
 ## Output Examples
-Here are some sample outputs for different images and prompts:
-
-### Example 1: `person`
+![Chair](https://github.com/user-attachments/assets/54ac86b0-89b3-4e01-8a8d-c74ea334b29f)
+![mask](https://github.com/user-attachments/assets/8db1c77c-af24-4a4a-8837-d05e132c0379)
+![generated](https://github.com/user-attachments/assets/13a6cd86-b48c-4cd3-8ff4-66211d85ecf4)
 
 
 ## Troubleshooting
