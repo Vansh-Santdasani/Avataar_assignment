@@ -133,9 +133,6 @@ python run.py --image examples/input_image.jpg --class "cat" --output examples/o
 ![mask](https://github.com/user-attachments/assets/8db1c77c-af24-4a4a-8837-d05e132c0379)
 ![generated](https://github.com/user-attachments/assets/13a6cd86-b48c-4cd3-8ff4-66211d85ecf4)
 
-/Users/apple/Documents/CS/avataar_assignment/examples/Table.jpg
-/Users/apple/Documents/CS/avataar_assignment/examples/generated2.png
-/Users/apple/Documents/CS/avataar_assignment/generated2.png
 
 ## Troubleshooting
 1. **CUDA Error**: Ensure that CUDA is properly installed if you have a compatible GPU. If not, the script will automatically fall back to CPU.
